@@ -32,7 +32,7 @@
 
 ###
 
-<h5 align="left">⚡ I am an experienced Frontend Developer with over 2 years of professional expertise in the field. Throughout my career, I have had the privilege of collaborating with prestigious organizations, contributing to their success and growth through my skills and dedication to delivering high-quality web solutions.</h5>
+<p align="left">⚡ I am an experienced Frontend Developer with over 2 years of professional expertise in the field. Throughout my career, I have had the privilege of collaborating with prestigious organizations, contributing to their success and growth through my skills and dedication to delivering high-quality web solutions.</p>
 
 ###
 
